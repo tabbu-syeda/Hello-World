@@ -1,3 +1,5 @@
 # Hello-World
-Try something new
-I am an aspiring developre, trying to do something out of the box.
+Trying something new
+
+
+I am an aspiring developer, trying to do something out of the box.
